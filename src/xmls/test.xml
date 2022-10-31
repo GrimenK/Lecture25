@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<suite name="TestDesktop">
+    <test name="Test">
+        <parameter name ="a" value ="1"/>
+        <parameter name ="b" value ="3"/>
+        <classes>
+            <class name ="BaseTest"/>
+        </classes>
+    </test>
+</suite>
